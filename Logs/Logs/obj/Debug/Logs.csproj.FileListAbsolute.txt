@@ -1,0 +1,10 @@
+C:\Users\noecu\source\repos\Logs\Logs\bin\Debug\Logs.exe.config
+C:\Users\noecu\source\repos\Logs\Logs\bin\Debug\Logs.exe
+C:\Users\noecu\source\repos\Logs\Logs\bin\Debug\Logs.pdb
+C:\Users\noecu\source\repos\Logs\Logs\obj\Debug\Logs.csproj.AssemblyReference.cache
+C:\Users\noecu\source\repos\Logs\Logs\obj\Debug\Logs.Properties.Resources.resources
+C:\Users\noecu\source\repos\Logs\Logs\obj\Debug\Logs.csproj.GenerateResource.cache
+C:\Users\noecu\source\repos\Logs\Logs\obj\Debug\Logs.csproj.CoreCompileInputs.cache
+C:\Users\noecu\source\repos\Logs\Logs\obj\Debug\Logs.exe
+C:\Users\noecu\source\repos\Logs\Logs\obj\Debug\Logs.pdb
+C:\Users\noecu\source\repos\Logs\Logs\obj\Debug\Logs.Form1.resources
