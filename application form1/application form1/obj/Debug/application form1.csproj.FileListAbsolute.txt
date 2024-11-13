@@ -1,0 +1,10 @@
+C:\Users\noecu\source\repos\application form1\application form1\bin\Debug\application form1.exe.config
+C:\Users\noecu\source\repos\application form1\application form1\bin\Debug\application form1.exe
+C:\Users\noecu\source\repos\application form1\application form1\bin\Debug\application form1.pdb
+C:\Users\noecu\source\repos\application form1\application form1\obj\Debug\application form1.csproj.AssemblyReference.cache
+C:\Users\noecu\source\repos\application form1\application form1\obj\Debug\application_form1.Properties.Resources.resources
+C:\Users\noecu\source\repos\application form1\application form1\obj\Debug\application_form1.Form1.resources
+C:\Users\noecu\source\repos\application form1\application form1\obj\Debug\application form1.csproj.GenerateResource.cache
+C:\Users\noecu\source\repos\application form1\application form1\obj\Debug\application form1.csproj.CoreCompileInputs.cache
+C:\Users\noecu\source\repos\application form1\application form1\obj\Debug\application form1.exe
+C:\Users\noecu\source\repos\application form1\application form1\obj\Debug\application form1.pdb
